@@ -11,9 +11,9 @@ function hasKey(key) {
 
 
 // Example usage:
-console.log(hasKey("red"));   // Should return true
-console.log(hasKey("blue"));  // Should return false
-console.log(hasKey("white")); // Should return true
+console.log(hasKey("true"));   // Should return true
+console.log(hasKey("false"));  // Should return false
+console.log(hasKey("true")); // Should return true
 
 }
 
